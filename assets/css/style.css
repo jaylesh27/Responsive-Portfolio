@@ -290,3 +290,48 @@ a {
 	height: 45px;
 	font-size: 20px;
 }
+
+@media screen and (max-width: 980px) {
+     body {
+		width: 100%;
+    }
+    .header-section,
+	.container,
+	#footer-section,
+	#html-links
+	#about-me,
+	#connect,{
+		width: 100%;
+	}
+
+}
+
+@media screen and (max-width: 768px) {
+     body {
+		width: 100%;
+    }
+    .header-section,
+	.container,
+	#footer-section,
+	#html-links
+	#about-me,
+	#connect,{
+		width: 100%;
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+     body {
+		width: 100%;
+    }
+    .header-section,
+	.container,
+	#footer-section,
+	#html-links
+	#about-me,
+	#connect,{
+		width: 100%;
+	}
+
+}
